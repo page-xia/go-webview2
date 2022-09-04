@@ -5,7 +5,7 @@ import (
 	"sync"
 	"unsafe"
 
-	"github.com/jchv/go-winloader"
+	winloader "github.com/page-xia/ns-winloader"
 	"golang.org/x/sys/windows"
 )
 
